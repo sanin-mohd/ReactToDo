@@ -12,6 +12,7 @@ body {
   top: 10%;
   left: 50%;
   transform: translate(-50%, -10%);
+  
 }
 
 .app .mainHeading h1 {
@@ -31,7 +32,7 @@ h2 {
 
 .app .input {
   margin-top: 0.8em;
-  width: 20em;
+  width: 30em;
   height: 2em;
   background-color: white;
   display: flex;
